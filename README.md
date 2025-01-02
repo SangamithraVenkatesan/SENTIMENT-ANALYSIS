@@ -25,8 +25,5 @@ Libraries: pandas, numpy, scikit-learn, matplotlib, nltk, etc.
 Project Description
 This project aims to perform sentiment analysis on Twitter data, categorizing tweets into positive, negative, and neutral sentiments. The datasets are preprocessed, and machine learning models are trained and validated to achieve accurate sentiment classification.
 
-## Usage
-You can use this repository to:
-
 ## Explore sentiment trends in social media.
 Train your own sentiment analysis model with custom data.
